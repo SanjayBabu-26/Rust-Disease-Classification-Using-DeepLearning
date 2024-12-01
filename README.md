@@ -20,7 +20,7 @@ The project requires the following Python libraries:
 - `streamlit`
 - `albumentations`
 - `opencv-python`
-- `torch`
+- `torch`or `tensorflow` (Depending on your purpose)
 - `albumentations.pytorch`
 
 You can install the necessary libraries using pip:
